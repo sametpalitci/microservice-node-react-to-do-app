@@ -1,0 +1,5 @@
+todos/node_modules
+event-bus/node_modules
+client/node_modules
+client/.eslintcache
+query/node_modules
